@@ -4,6 +4,8 @@
 
 ----------------------------------------------------------------------
 
+**Recommend using the [GoReSym](https://github.com/mandiant/GoReSym) tool**
+
 > :bulb: **NOTE**:
 >
 > This **master** branch is written in Python2 for IDAPython, and tested only on IDA7.2/IDA7.0. If you use IDAPython with Python3 and higher version of IDAPro, please use **[Python3 Branch](https://github.com/0xjiayu/go_parser/tree/py3)** for go_parser.

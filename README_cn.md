@@ -4,6 +4,8 @@
 
 ----------------------------------------------------------------------
 
+**推荐使用 [GoReSym](https://github.com/mandiant/GoReSym)**
+
 > :bulb: **注意**:
 >
 > **master** 分支由 Python2 版的 IDAPython 编写，仅在 IDAPro 7.2/7.0 版本测试过。如果您在用 Python3.x 版的 IDAPython 和更高版本的 IDAPro ，请使用 go_parser 的 **[Python3 分支](https://github.com/0xjiayu/go_parser/tree/py3)**。
